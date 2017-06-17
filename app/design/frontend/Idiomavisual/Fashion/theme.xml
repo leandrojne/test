@@ -1,0 +1,5 @@
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>IdiomaVisual Fashion</title> <!-- Nombre del theme-->
+    <parent>Magento/luma</parent> <!-- el parent, del cual hereda la base -->
+    <media> <preview_image>media/preview.jpg</preview_image> <!-- imagen preview del theme para el backend --> </media>
+</theme>
