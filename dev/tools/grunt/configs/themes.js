@@ -41,9 +41,9 @@ module.exports = {
         ],
         dsl: 'less'
     },
-    compraar: {
+    idiomavisual: {
         area: 'frontend',
-        name: 'Idiomavisual/CompraAR',
+        name: 'IdiomaVisual/theme-iv',
         locale: 'es_AR',
         files: [
             'css/styles-m',
@@ -51,16 +51,6 @@ module.exports = {
         ],
         dsl: 'less'
     },
-    fashion: {
-     area: 'frontend',
-     name: 'Idiomavisual/Fashion',
-     locale: 'es_AR',
-     files: [
-     'css/styles-m',
-     'css/styles-l'
-     ],
-     dsl: 'less'
-     },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
